@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Contact:
+
+<p align="center">
+  <a href="https://t.me/yulia_karla">
+    <img alt="Telegram" width="189px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a target="_blank" href="mailto:yuliakarla2005@gmail.com">
+    <img  alt="Gmail" width="148px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
